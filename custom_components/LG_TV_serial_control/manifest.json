@@ -1,1 +1,8 @@
-
+{
+  "domain": "LG_TV_serial_control",
+  "name": "LG TV serial control",
+  "codeowners": [],
+  "documentation": "",
+  "iot_class": "local_polling",
+  "requirements": ["pyserial==3.5"]
+}
