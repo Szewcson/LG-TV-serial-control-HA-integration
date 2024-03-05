@@ -1,0 +1,11 @@
+{
+  "domain": "lgtv_remote",
+  "name": "LG TV Remote",
+  "version": "1.0",
+  "documentation": "https://www.home-assistant.io/integrations/remote/",
+  "requirements": ["lgtv-rs232-zcline91>=0.0.6"],
+  "dependencies": [],
+  "codeowners": ["@your_username"],
+  "iot_class": "local_polling",
+  "config_flow": true
+}
